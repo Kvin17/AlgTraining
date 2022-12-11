@@ -1,0 +1,12 @@
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\bin\Debug\SortingTrainingProgram.exe.config
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\bin\Debug\SortingTrainingProgram.exe
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\bin\Debug\SortingTrainingProgram.pdb
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.csproj.AssemblyReference.cache
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.Form1.resources
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.Properties.Resources.resources
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.csproj.GenerateResource.cache
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.csproj.CoreCompileInputs.cache
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.exe
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.pdb
+C:\Users\sukhy\source\repos\SortingTrainingProgram\SortingTrainingProgram\obj\Debug\SortingTrainingProgram.AlgorithmForm.resources
